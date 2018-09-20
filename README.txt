@@ -7,3 +7,6 @@ Get current path, route name and path alias by current path:
 Load the current node and check its type:
     * CurrentNodeType.php
 
+Get current language code and name:
+    *CurrentLangcodeAndLangname.php
+

@@ -8,5 +8,7 @@ Load the current node and check its type:
     * CurrentNodeType.php
 
 Get current language code and name:
-    *CurrentLangcodeAndLangname.php
+    * CurrentLangcodeAndLangname.php
 
+Date formatter service:
+    * DateFormatterService.php

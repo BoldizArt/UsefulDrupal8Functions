@@ -1,7 +1,7 @@
 <?php
 
 // Get node storage.
-$nodeStorage = \Drupal::entityTypeManager()->getStorage('node');
+$nodeStorage = \Drupal::service('entity.manager')->getStorage('node');
 
 // Set node content.
 $content = [

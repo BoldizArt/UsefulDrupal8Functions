@@ -20,3 +20,8 @@
 - List field names ​​for a content type:
     * listFieldNames​ForAContentType.php
 
+- Get node ids by content type:
+    * GetNidsByContentType.php
+
+- Load node by id and load multiple nodes by ids:
+    * LoadNodeById.php

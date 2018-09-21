@@ -1,17 +1,22 @@
-USEFUL DRUPAL8 FUNCTIONS
+
+# USEFUL DRUPAL8 FUNCTIONS
 ---------------------
 
-Get current path, route name and path alias by current path:
+- Get current path, route name and path alias by current path:
     * CurrentPathRouteNameAndPathAlias.php
 
-Load the current node and check its type:
+- Load the current node and check its type:
     * CurrentNodeType.php
 
-Get current language code and name:
+- Get current language code and name:
     * CurrentLangcodeAndLangname.php
 
-Date formatter service:
+- Date formatter service:
     * DateFormatterService.php
 
-Create node programatically:
+- Create node programatically:
     * CreateNodeProgrammatically.php
+
+- List field names ​​for a content type:
+    * listFieldNames​ForAContentType.php
+

@@ -18,6 +18,3 @@ $formatter->format($timestamp, 'short'); // 09/17/2018 - 08:59
 
 // Custom format.
 $formatter->format($timestamp, '', 'd.M Y H:i:s'); // 17.Sep 2018 08:59:29
-
-
-

@@ -1,4 +1,5 @@
 <?php
+
 // Load the current node.
 $node = \Drupal::request()->attributes->get('node');
 

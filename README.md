@@ -34,3 +34,7 @@
 
 - **Check if a module is enabled:**
     *CheckIfAModuleIsEnabled.php*
+
+- **Load taxonomy term by name**
+    *LoadTaxonomyTermByName.php*
+

@@ -3,38 +3,38 @@
 ---------------------
 
 - **Get current path, route name and path alias by current path:**
-    *CurrentPathRouteNameAndPathAlias.php*
+    *[CurrentPathRouteNameAndPathAlias.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/CurrentPathRouteNameAndPathAlias.php)*
 
 - **Load the current node and check its type:**
-    *CurrentNodeType.php*
+    *[CurrentNodeType.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/CurrentNodeType.php)*
 
 - **Get current language code and name:**
-    *CurrentLangcodeAndLangname.php*
+    *[CurrentLangcodeAndLangname.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/CurrentLangcodeAndLangname.php)*
 
 - **Date formatter service:**
-    *DateFormatterService.php*
+    *[DateFormatterService.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/DateFormatterService.php)*
 
 - **Create node programatically:**
-    *CreateNodeProgrammatically.php*
+    *[CreateNodeProgrammatically.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/CreateNodeProgrammatically.php)*
 
 - **List field names for a content type:**
-    *listFieldNamesForAContentType.php*
+    *[listFieldNamesForAContentType.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/listFieldNamesForAContentType.php)*
 
 - **Get node ids by content type:**
-    *GetNidsByContentType.php*
+    *[GetNidsByContentType.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/GetNidsByContentType.php)*
 
 - **Load node by id and load multiple nodes by ids:**
-    *LoadNodeById.php*
+    *[LoadNodeById.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/LoadNodeById.php)*
 
 - **Render a view programmatically with contextual filter:**
-    *RenderViewWithContextualFilter.php*
+    *[RenderViewWithContextualFilter.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/RenderViewWithContextualFilter.php)*
 
 - **Get taxonomy term ids by vocabulary name:**
-    *GetTidsByVocabularyName.php*
+    *[GetTidsByVocabularyName.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/GetTidsByVocabularyName.php)*
 
 - **Check if a module is enabled:**
-    *CheckIfAModuleIsEnabled.php*
+    *[CheckIfAModuleIsEnabled.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/CheckIfAModuleIsEnabled.php)*
 
 - **Load taxonomy term by name**
-    *LoadTaxonomyTermByName.php*
+    *[LoadTaxonomyTermByName.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/LoadTaxonomyTermByName.php)*
 

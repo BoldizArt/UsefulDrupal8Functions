@@ -16,6 +16,6 @@ $cartProvider = \Drupal::service('commerce_cart.cart_provider');
 // Load the current users cart.
 $cart = $cartProvider->getCart($orderType, $store);
 
-// Check is commerce cart has items.
+// Check is the current commerce cart has items.
 if (is_object($cart) && $cart->hasItems())
     $count = count($cart->getItems());

@@ -47,3 +47,9 @@
 - **Authenticate user by username and password:**
     *[AuthenticateUserByUsernameAndPassword.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/AuthenticateUserByUsernameAndPassword.php)*
 
+- **Get type of entity field by field name:**
+    *[GetEntityFieldType.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/GetEntityFieldType.php)*
+
+- **Ceck is the entity has field:**
+    *[CheckIfEntityHasField.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/CheckIfEntityHasField.php)*
+

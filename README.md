@@ -31,3 +31,6 @@
 
 - **Get taxonomy term ids by vocabulary name:**
     *GetTidsByVocabularyName.php*
+
+- **Check if a module is enabled:**
+    *CheckIfAModuleIsEnabled.php*

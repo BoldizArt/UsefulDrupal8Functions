@@ -53,3 +53,5 @@
 - **Ceck is the entity has field:**
     *[CheckIfEntityHasField.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/CheckIfEntityHasField.php)*
 
+- **Check is the current commerce cart has items:**
+    *[CheckIsCommerceCartHasItems.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/CheckIsCommerceCartHasItems.php)*

@@ -35,6 +35,15 @@
 - **Check if a module is enabled:**
     *[CheckIfAModuleIsEnabled.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/CheckIfAModuleIsEnabled.php)*
 
-- **Load taxonomy term by name**
+- **Load taxonomy term by name:**
     *[LoadTaxonomyTermByName.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/LoadTaxonomyTermByName.php)*
+
+- **Get the current users data:**
+    *[GetTheCurrentUsersData.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/GetTheCurrentUsersData.php)*
+
+- **Generate uuid for the current user:**
+    *[GenerateUuidForTheCurrentUser.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/GenerateUuidForTheCurrentUser.php)*
+
+- **Authenticate user by username and password:**
+    *[AuthenticateUserByUsernameAndPassword.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/AuthenticateUserByUsernameAndPassword.php)*
 

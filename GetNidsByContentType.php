@@ -17,4 +17,3 @@ $vids = \Drupal::entityQuery('node')
     ->range(0, 10)
     ->sort('changed', 'DESC')
     ->execute();
-    

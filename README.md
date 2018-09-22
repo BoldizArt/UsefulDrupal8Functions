@@ -25,3 +25,9 @@
 
 - **Load node by id and load multiple nodes by ids:**
     *LoadNodeById.php*
+
+- **Render a view programmatically with contextual filter:**
+    *RenderViewWithContextualFilter.php*
+
+- **Get taxonomy term ids by vocabulary name:**
+    *GetTidsByVocabularyName.php*

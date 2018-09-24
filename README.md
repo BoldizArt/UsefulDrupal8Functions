@@ -2,60 +2,60 @@
 ## USEFUL DRUPAL8 FUNCTIONS ![alt text](https://goo.gl/nHNCGw "Drupal 8 Logo")
 ---------------------
 
-- **Get current path, route name and path alias by current path:**
+1 **Get current path, route name and path alias by current path:**
     *[CurrentPathRouteNameAndPathAlias.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/CurrentPathRouteNameAndPathAlias.php)*
 
-- **Load the current node and check its type:**
+2 **Load the current node and check its type:**
     *[CurrentNodeType.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/CurrentNodeType.php)*
 
-- **Get current language code and name:**
+3 **Get current language code and name:**
     *[CurrentLangcodeAndLangname.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/CurrentLangcodeAndLangname.php)*
 
-- **Date formatter service:**
+4 **Date formatter service:**
     *[DateFormatterService.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/DateFormatterService.php)*
 
-- **Create node programatically:**
+5 **Create node programatically:**
     *[CreateNodeProgrammatically.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/CreateNodeProgrammatically.php)*
 
-- **List field names for a content type:**
+6 **List field names for a content type:**
     *[listFieldNamesForAContentType.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/listFieldNamesForAContentType.php)*
 
-- **Get node ids by content type:**
+7 **Get node ids by content type:**
     *[GetNidsByContentType.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/GetNidsByContentType.php)*
 
-- **Load node by id and load multiple nodes by ids:**
+8 **Load node by id and load multiple nodes by ids:**
     *[LoadNodeById.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/LoadNodeById.php)*
 
-- **Render a view programmatically with contextual filter:**
+9 **Render a view programmatically with contextual filter:**
     *[RenderViewWithContextualFilter.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/RenderViewWithContextualFilter.php)*
 
-- **Get taxonomy term ids by vocabulary name:**
+10 **Get taxonomy term ids by vocabulary name:**
     *[GetTidsByVocabularyName.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/GetTidsByVocabularyName.php)*
 
-- **Check if a module is enabled:**
+11 **Check if a module is enabled:**
     *[CheckIfAModuleIsEnabled.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/CheckIfAModuleIsEnabled.php)*
 
-- **Load taxonomy term by name:**
+12 **Load taxonomy term by name:**
     *[LoadTaxonomyTermByName.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/LoadTaxonomyTermByName.php)*
 
-- **Get the current users data:**
+13 **Get the current users data:**
     *[GetTheCurrentUsersData.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/GetTheCurrentUsersData.php)*
 
-- **Generate uuid for the current user:**
+14 **Generate uuid for the current user:**
     *[GenerateUuidForTheCurrentUser.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/GenerateUuidForTheCurrentUser.php)*
 
-- **Authenticate user by username and password:**
+15 **Authenticate user by username and password:**
     *[AuthenticateUserByUsernameAndPassword.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/AuthenticateUserByUsernameAndPassword.php)*
 
-- **Get type of entity field by field name:**
+16 **Get type of entity field by field name:**
     *[GetEntityFieldType.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/GetEntityFieldType.php)*
 
-- **Ceck is the entity has field:**
+17 **Ceck is the entity has field:**
     *[CheckIfEntityHasField.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/CheckIfEntityHasField.php)*
 
-- **Check is the current commerce cart has items:**
+18 **Check is the current commerce cart has items:**
     *[CheckIsCommerceCartHasItems.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/CheckIsCommerceCartHasItems.php)*
 
-- **Load file by id and get its values:**
+19 **Load file by id and get its values:**
     *[LoadFileByIdAndGetItsValues.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/LoadFileByIdAndGetItsValues.php)*
 

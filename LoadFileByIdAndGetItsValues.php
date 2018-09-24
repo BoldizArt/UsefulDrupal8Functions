@@ -1,7 +1,7 @@
 <?php
 
 // Example file id.
-$fid = 42;
+$fid = 1;
 
 // Get file storage.
 $fileStorage = \Drupal::service('entity.manager')->getStorage('file');

@@ -55,3 +55,7 @@
 
 - **Check is the current commerce cart has items:**
     *[CheckIsCommerceCartHasItems.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/CheckIsCommerceCartHasItems.php)*
+
+- **Load file by id and get its values:**
+    *[LoadFileByIdAndGetItsValues.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/LoadFileByIdAndGetItsValues.php)*
+

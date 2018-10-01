@@ -59,3 +59,5 @@
 19 **Load file by id and get its values:**
     *[LoadFileByIdAndGetItsValues.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/LoadFileByIdAndGetItsValues.php)*
 
+20 **Get taxonomy term by taxonomy term id:**
+    *[getTaxonomyTermByTid.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/getTaxonomyTermByTid.php)*

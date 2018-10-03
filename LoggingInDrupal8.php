@@ -5,7 +5,7 @@ $logger = \Drupal::service('logger.factory');
 
 // Log a message:
 $modulName = 'mymodule';
-$message = 'LOorem ipsum dolor sit amet...';
+$message = 'Lorem ipsum dolor sit amet...';
 
 $logger->get($moduleName)->emergency($message); // emergency
 $logger->get($moduleName)->alert($message);     // alert
@@ -16,7 +16,7 @@ $logger->get($moduleName)->notice($message);    // notice
 $logger->get($moduleName)->info($message);      // info
 $logger->get($moduleName)->debug($message);     // debug
 
-// Log a message with dinamic variables.
+// Log a message with dynamic variables.
 $nodeType = 'Article';
 $userName = 'Admin';
 

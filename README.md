@@ -61,3 +61,7 @@
 
 20 **Get taxonomy term by taxonomy term id:**
     *[getTaxonomyTermByTid.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/getTaxonomyTermByTid.php)*
+
+21 **Logging in Drupal 8:**
+    *[LoggingInDrupal8.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/LoggingInDrupal8.php)*
+

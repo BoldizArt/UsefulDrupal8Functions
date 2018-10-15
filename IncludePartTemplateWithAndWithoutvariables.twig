@@ -1,0 +1,12 @@
+
+{# Include a part template using Twig namespaces to declare the current theme templates directory. #}
+{% include '@theme_name/inc/header.html.twig' %}
+
+{# Include a part template with variables. #}
+{% set variables = {
+    'name': 'Boldizar',
+    'date': 'nov'|date('d.M. Y')
+} %}
+{% include 'template.html' with variables %}
+
+{# Twig namespace '@theme_name' will be replaced with 'your_site.com/themes/theme_name/templates/'. #}

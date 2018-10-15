@@ -73,3 +73,7 @@
 
 21 **Translate function with dynamic variables:**
     *[TranslateFunctionWithDynamicVariables.twig](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/TranslateFunctionWithDynamicVariables.twig)*
+
+3 **Include part template with and without variables:**
+    *[IncludePartTemplateWithAndWithoutvariables.twig](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/IncludePartTemplateWithAndWithoutvariables.twig)*
+

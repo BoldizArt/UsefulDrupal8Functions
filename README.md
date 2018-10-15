@@ -78,3 +78,5 @@
 3 **Include part template with and without variables:**
     *[IncludePartTemplateWithAndWithoutvariables.twig](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/IncludePartTemplateWithAndWithoutvariables.twig)*
 
+4 **Debug in Twig:**
+    *[DebugInTwig.twig](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/DebugInTwig.twig)*

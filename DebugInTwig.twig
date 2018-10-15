@@ -1,0 +1,11 @@
+{# Us dump to print all available keys in this template. #}
+{{ dump(_context|keys) }}
+
+{# Print whole content - not recommended. #}
+{{ dump(_context) }}
+
+{# If you have installed kint devel module, use kint for print variables. #}
+{{ kint(_context) }}
+
+{# Only keys. #}
+{{ kint(_context|keys) }}

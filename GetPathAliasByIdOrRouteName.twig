@@ -1,0 +1,20 @@
+{# Link to frontpage view. #}
+<a href="{{ path('view.frontpage.page_1') }}">
+    {{ 'View all content'|t }}
+</a>
+
+{# Link to user entity/profile page. #}
+<a href="{{ path('entity.user.canonical', {'user': user.id}) }}">
+    {{ 'View user profile'|t }}
+</a>
+
+{# Link to node page. #}
+<a href="{{ path('entity.node.canonical', {'node': node.id}) }}">
+    {{ 'View node page'|t }}
+</a>
+
+{# Link to taxonomy term page. #}
+<a href="{{ path('entity.taxonomy_term.canonical', {'taxonomy_term': term.id}) }}">
+    {{ 'View taxonomy term page'|t }}
+</a>
+

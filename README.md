@@ -67,9 +67,10 @@
 
 
 ### Functions in Twig template ###
+-----
 
-20 **Get path alias by id or route name:**
+1 **Get path alias by id or route name:**
     *[GetPathAliasByIdOrRouteName.twig](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/GetPathAliasByIdOrRouteName.twig)*
 
-21 **Translate function with dynamic variables:**
+2 **Translate function with dynamic variables:**
     *[TranslateFunctionWithDynamicVariables.twig](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/TranslateFunctionWithDynamicVariables.twig)*

@@ -1,0 +1,10 @@
+
+{# Set arguments and pass it to the 't()' function. #}
+{% set args = {'@author': 'Boldizar', '@date': 'now'|date('d.M. Y')} %}
+{{ 'by @author on @date' | t(args) }}
+
+{# Set the argument and use in 'trans' function #}
+{% set author = 'Boldizar' %}
+{% trans %}
+    by {{ author }} on {{ 'now'|date('d.M. Y') }}.
+{% endtrans %}

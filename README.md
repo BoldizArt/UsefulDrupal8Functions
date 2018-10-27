@@ -60,8 +60,23 @@
     *[LoadFileByIdAndGetItsValues.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/LoadFileByIdAndGetItsValues.php)*
 
 20 **Get taxonomy term by taxonomy term id:**
-    *[getTaxonomyTermByTid.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/getTaxonomyTermByTid.php)*
+    *[GetTaxonomyTermByTid.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/getTaxonomyTermByTid.php)*
 
 21 **Logging in Drupal 8:**
     *[LoggingInDrupal8.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/LoggingInDrupal8.php)*
 
+
+### Functions in Twig template ###
+-----
+
+1 **Get path alias by id or route name:**
+    *[GetPathAliasByIdOrRouteName.twig](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/GetPathAliasByIdOrRouteName.twig)*
+
+2 **Translate function with dynamic variables:**
+    *[TranslateFunctionWithDynamicVariables.twig](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/TranslateFunctionWithDynamicVariables.twig)*
+
+3 **Include part template with and without variables:**
+    *[IncludePartTemplateWithAndWithoutvariables.twig](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/IncludePartTemplateWithAndWithoutvariables.twig)*
+
+4 **Debug in Twig:**
+    *[DebugInTwig.twig](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/DebugInTwig.twig)*

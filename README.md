@@ -18,7 +18,7 @@
     *[CreateNodeProgrammatically.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/CreateNodeProgrammatically.php)*
 
 6 **List field names for a content type:**
-    *[listFieldNamesForAContentType.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/listFieldNamesForAContentType.php)*
+    *[listFieldNamesForAContentType.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/ListFieldNamessForAContentType.php)*
 
 7 **Get node ids by content type:**
     *[GetNidsByContentType.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/GetNidsByContentType.php)*
@@ -64,6 +64,9 @@
 
 21 **Logging in Drupal 8:**
     *[LoggingInDrupal8.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/LoggingInDrupal8.php)*
+    
+22 **Get the sitename and the slogan programmatically:**
+    *[GetSitenameAndSloganProgrammatically.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/GetSitenameAndSloganProgrammatically.php)*
 
 
 ### Functions in Twig template ###

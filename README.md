@@ -60,7 +60,7 @@
     *[LoadFileByIdAndGetItsValues.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/LoadFileByIdAndGetItsValues.php)*
 
 20 **Get taxonomy term by taxonomy term id:**
-    *[GetTaxonomyTermByTid.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/getTaxonomyTermByTid.php)*
+    *[GetTaxonomyTermByTid.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/GetTaxonomyTermByTid.php)*
 
 21 **Logging in Drupal 8:**
     *[LoggingInDrupal8.php](https://github.com/BoldizArt/UsefulDrupal8Functions/blob/master/LoggingInDrupal8.php)*
